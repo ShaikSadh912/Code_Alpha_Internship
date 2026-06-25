@@ -12,13 +12,9 @@ An AI-powered Language Translator developed using Python that translates text be
 
 ## 🛠️ Technologies Used
 
-- Python
-- Tkinter
-- Googletrans
-- gTTS
-- SpeechRecognition
-- PyAudio
-- Pygame
+- Python 
+- deep-translator
+- pyttsx3
 
 ## 📂 Project Structure
 
